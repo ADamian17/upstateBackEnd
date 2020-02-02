@@ -1,0 +1,38 @@
+[
+  {
+    "city": "beacon",
+    "state": "ny",
+    "description": "Beacon is a city located in Dutchess County, New York, United States. The 2010 census placed the city total population at 15,541. Beacon is part of the Poughkeepsie–Newburgh–Middletown, New York Metropolitan Statistical Area as well as the larger New York–Newark–Bridgeport, New York–New Jersey–Connecticut–Pennsylvania Combined Statistical Area.",
+    "image": "",
+    "latitude": 41.504783,
+    "longitude": -73.969542,
+    "name": "beacon"
+  },
+  {
+    "city":"Peekskill",
+    "state":"ny",
+    "description":"Peekskill, officially the City of Peekskill, is a city in Westchester County, New York. Peekskill is situated on a bay along the east side of the Hudson River, across from Jones Point. The population was 23,583 during the 2010 census",
+    "image":"",
+    "latitude": 41.290129,
+    "longitude": -73.920613,
+    "name": "Peekskill"
+  },
+  {
+    "city":"cold spring",
+    "state":"ny",
+    "description":"Cold Spring is a village in the town of Philipstown in Putnam County, New York, United States. The population was 1,983 at the 2010 census. It borders the smaller village of Nelsonville and the hamlet of Garrison.",
+    "image":"",
+    "latitude": 41.420165,
+    "longitude": -73.954501,
+    "name": "cold spring"
+  },
+  {
+    "city":"",
+    "state":"NY",
+    "description":"",
+    "image":"",
+    "latitude": "",
+    "longitude": "",
+    "name": ""
+  }
+]

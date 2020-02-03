@@ -23,7 +23,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 // });
 
 // api routes
-app.use('api/v1/cities', routes.city);
+app.use('/api/v1/cities', routes.city);
 
 // Server
 app.listen(process.env.PORT || 4000, () => console.log(`Server connected at http://localhost:${PORT}`))

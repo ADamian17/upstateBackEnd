@@ -25,5 +25,105 @@
     "latitude": 41.420165,
     "longitude": -73.954501,
     "name": "cold spring"
+  },
+  {
+    "city":"woodstock",
+    "state":"ny",
+    "description":"Woodstock is in the northern part of the county, northwest of Kingston, and lies within the borders of the Catskill Park",
+    "image":"",
+    "latitude": 42.0409,
+    "longitude": -74.118293,
+    "name": "Woodstock"
+  },
+  {
+    "city":"stone ridge",
+    "state":"ny",
+    "description":"Stone Ridge is a hamlet in Ulster County, New York, United States.",
+    "image":"",
+    "latitude": 41.840904,
+    "longitude": -74.15241,
+    "name": "stone ridge"
+  },
+  {
+    "city":"orange county",
+    "state":"ny",
+    "description":"Orange County is a county located in the U.S. state of New York.",
+    "image":"",
+    "latitude": 41.422047,
+    "longitude": -74.309455,
+    "name": "orange county"
+  },
+  {
+    "city":"cornwall",
+    "state":"ny",
+    "description":"Cornwall-on-Hudson is a riverfront village in the town of Cornwall, Orange County, New York.",
+    "image":"",
+    "latitude": 41.444817,
+    "longitude": -74.015554,
+    "name": "cornwall"
+  },
+  {
+    "city":"kerhonkson",
+    "state":"ny",
+    "description":"Kerhonkson is a hamlet in Ulster County, New York, United States. The population was 1,684 at the 2010 census.",
+    "image":"",
+    "latitude": 41.774771,
+    "longitude": -74.298034,
+    "name": "kerhonkson"
+  },
+  {
+    "city":"saratoga springs",
+    "state":"ny",
+    "description":"Saratoga Springs is a city in New York State. A hub for thoroughbred horse racing. The National Museum of Racing and Hall of Fame displays horse paintings and trophies.",
+    "image":"",
+    "latitude": 43.08301,
+    "longitude": -73.784561,
+    "name": "saratoga springs"
+  },
+  {
+    "city":"kingston",
+    "state":"ny",
+    "description":"Kingston is a city in and the county seat of Ulster County, New York, United States. It is 91 miles north of New York City and 59 miles south of Albany.",
+    "image":"",
+    "latitude": 41.926996,
+    "longitude": -73.997301,
+    "name": "kingston"
+  },
+  {
+    "city":"big indian",
+    "state":"ny",
+    "description":"Big Indian is a hamlet within the Town of Shandaken in Ulster County, New York, United States.",
+    "image":"",
+    "latitude": 42.107504,
+    "longitude": -74.450556,
+    "name": "big indian"
+  },
+  {
+    "city":"gardiner",
+    "state":"ny",
+    "description":"Gardiner is a town in Ulster County, New York. The Town of Gardiner is in the south-central part of the county.",
+    "image":"",
+    "latitude": 41.679843,
+    "longitude": -74.15043,
+    "name": "gardiner"
+  },
+  {
+    "city":"new paltz",
+    "state":"ny",
+    "description":"New Paltz is a town in Ulster County, New York. The town is located in the southeastern part of the county and is south of Kingston.",
+    "image":"",
+    "latitude": 41.747544,
+    "longitude": -74.086708,
+    "name": "new paltz"
+  },
+  {
+    "city":"hudson",
+    "state":"ny",
+    "description":"Hudson is a city located along the west border of Columbia County, New York.",
+    "image":"",
+    "latitude": 42.252237,
+    "longitude": -73.790314,
+    "name": "hudson"
   }
 ]
+

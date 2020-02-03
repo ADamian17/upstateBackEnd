@@ -1,12 +1,12 @@
-const db = require('../models');
+const db = require('../../models');
 
-// const movies = require('./movies.json');
+const city = require('./city.json');
 
-// db.Movies.remove({}, () => {
-// 	movies.forEach(movie => {
-// 		db.Movies.create(movie, (error, createdMovie) => {
-// 			if (error) return console.log(error);
-// 			console.log(createdMovie);
-// 		});
-// 	});
-// });
+db.City.remove({}, () => {
+	city.forEach( city => {
+		db.City.create( city, (error, createdCity) => {
+			if (error) return console.log(error);
+			console.log(createdCity);
+		});
+	});
+});

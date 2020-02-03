@@ -1,7 +1,8 @@
 const db = require('../models');
 
 // All Cities
-const index = (req, res) => {
+const allCities = (req, res) => {
+
   db.City.find({}, (err, allCities) => {
     if (err) return res.status(500).json({
       status: 500,
@@ -17,5 +18,5 @@ const index = (req, res) => {
 };
 
 module.exports = {
-  index, 
+  allCities 
 }

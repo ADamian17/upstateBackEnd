@@ -4,7 +4,7 @@ const ctrl = require('../controllers');
 
 
 // City Routes
-router.get('/', ctrl.city.index); // Esta es la routa para ver todas las ciudades
+router.get('/', ctrl.city.allCities); // Esta es la routa para ver todas las ciudades
 
 
 
